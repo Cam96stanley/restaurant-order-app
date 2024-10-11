@@ -1,3 +1,29 @@
 body {
   margin: 0;
+  font-family: "Smythe", sans-serif;
+}
+
+.heading-img {
+  width: 600px;
+  height: 170px;
+}
+
+.header-container {
+  position: relative;
+}
+
+.title {
+  position: absolute;
+  top: 10px;
+  left: 20px;
+  color: #ffffff;
+  font-size: 2.5rem;
+}
+
+.sub-title {
+  position: absolute;
+  top: 60px;
+  left: 20px;
+  color: #ffffff;
+  font-size: 1.375rem;
 }
